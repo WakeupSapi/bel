@@ -1,7 +1,7 @@
 {
-  "sA": false,
-  "appOpenId": "ca-app-pub-3940256099942544/5575463023",
-  "bannerId": "ca-app-pub-3940256099942544/2435281174",
-  "interstitialId": "ca-app-pub-3940256099942544/4411468910",
+  "sA": true,
+  "appOpenId": "ca-app-pub-7650501023198241/2593276843",
+  "bannerId": "ca-app-pub-7650501023198241/6277666132",
+  "interstitialId": "ca-app-pub-7650501023198241/4460892283",
   "nativeId": "ca-app-pub-3940256099942544/3986624511"
 }
