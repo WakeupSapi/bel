@@ -1,20 +1,9 @@
 {
-  "showAds": false,
-  "section": {
-    "title": "Free Streams",
-    "streams": [
-        { "slug": "vidrock", "title": "VidRock" },
-        { "slug": "vidzee",  "title": "VidZee"  },
-        { "slug": "vidnest", "title": "VidNest" },
-        { "slug": "popr",    "title": "Popr"    },
-        { "slug": "vidsrc",  "title": "VidSrc"  },
-        { "slug": "icefy",   "title": "Icefy"   },
-        { "slug": "vidlink", "title": "VidLink" },
-        { "slug": "vixsrc",  "title": "VixSrc"  }
-    ]
-  },
-  "appOpenId": "ca-app-pub-3940256099942544/5575463023",
-  "bannerId": "ca-app-pub-3940256099942544/2435281174",
-  "interstitialId": "ca-app-pub-3940256099942544/4411468910",
-  "rewardId": "ca-app-pub-3940256099942544/1712485313"
+  "sA": true,
+  "appOpenId": "ca-app-pub-7650501023198241/2593276843",
+  "bannerId": "ca-app-pub-7650501023198241/6277666132",
+  "bannerIdDetail": "ca-app-pub-7650501023198241/5027868495",
+  "interstitialId": "ca-app-pub-7650501023198241/4460892283",
+  "interstitialIdSplash": "ca-app-pub-7650501023198241/6281535564",
+  "nativeId": "ca-app-pub-7650501023198241/7523838196"
 }
