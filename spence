@@ -1,1 +1,17 @@
+{
+  "sA": true,
 
+  "popadsSiteId": 0,
+  "popadsPopundersPerIp": 0,
+  "popadsDelayBetween": 0,
+  "popadsMinBid": 0,
+  "popadsTopmostLayer": false,
+
+  "freeStreams": [
+    {
+      "title": "Rivestream",
+      "movie": "https://rivestream.ru/embed?type=movie&id={tmdb_id}",
+      "tv": "https://rivestream.ru/embed?type=tv&id={tmdb_id}&season={season}&episode={episode}"
+    }
+  ]
+}
