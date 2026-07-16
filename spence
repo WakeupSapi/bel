@@ -6,16 +6,18 @@
   "popadsDelayBetween": 0,
   "popadsMinBid": 0,
   "popadsTopmostLayer": false,
-
-  "freeStreams": [
-    {
-      "title": "Rivestream",
-      "m": "Mug3h1Er90t8EtdWtmztSOY9QkuRLdwcLclM7BJjgPBn8SyBS3T-DWpG2keofP1y7jQR",
-      "t": "Mug3h1Er90t8EtdWtmztSOY9QkuRLdwcLclM7BJjgPBn6DXRS3XlH3oWxVGacftQoSMJWJdt10w0302yFXWe6Hz5M55RfrwBMwDEQ6xr8EniLQ"
-    },
-    {
-      "title": "Webtor",
-      "kind": "webtor"
-    }
-  ]
+"freeStreams": [
+  { "title": "Rivestream",
+    "m": "Mug3h1Er90t8EtdWtmztSOY9QkuRLdwcLclM7BJjgPBn8SyBS3T-DWpG2keofP1y7jQR",
+    "t": "Mug3h1Er90t8EtdWtmztSOY9QkuRLdwcLclM7BJjgPBn6DXRS3XlH3oWxVGacftQoSMJWJdt10w0302yFXWe6Hz5M55RfrwBMwDEQ6xr8EniLQ" },
+  { "title": "Vidsrc",
+    "m": "Mug3h1Er90t4EsVAt3uySOoyCV3KcMxeKsFKtgI1nfos9SbIVny8BjMA1V6hesBE4y0",
+    "t": "Mug3h1Er90t4EsVAt3uySOoyCV3KcMxeKsFKtgI1hONl6C6TQCyjEGMfw2ysfOIL9DUNSotshAo8yUmgCXSNsz_sKoRNdb1ZdR7RWrZ3-0j6" },
+  { "title": "2embed",
+    "m": "Mug3h1Er90t5DNYd933yT-I0QlaKbtAfKoNNvgR_lLo38zWeRz6jEGMfw2ysfOI",
+    "t": "Mug3h1Er90t5DNYd933yT-I0QlaKbtAfKoNNvgR_lLou6myMVny8BlESxU7qY-xI5iMDV5ktwhQ_xVu8An-N" },
+  { "title": "SuperEmbed",
+    "m": "Mug3h1Er90tjDs1HrH3yT-I0QlSLdJZOOcVMtglFmfFn5zeaRnOHDWoGh0eofP0Qtg",
+    "t": "Mug3h1Er90tjDs1HrH3yT-I0QlSLdJZOOcVMtglFmfFn5zeaRnOHDWoGh0eofP0QtnYfBJ9x3BA8w0auQH_N7j_sKoRNdb0Z" }
+]
 }
